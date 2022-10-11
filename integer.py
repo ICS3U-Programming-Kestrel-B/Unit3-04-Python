@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created By: Kestrel Bryce
-# Date: Oct. 3, 2022
+# Date: Oct. 11, 2022
 # This program asks for an integer
 # and tells you if the integer is
 # positive, negative, or zero
